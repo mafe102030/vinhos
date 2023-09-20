@@ -1,0 +1,22 @@
+.benner{
+    background-color: bisque;
+    color: blue;
+    text-align: center;
+    padding: 3em;
+}
+.banner__titulo{
+    font-size: 30px;
+    font-weight: 700;
+    pading: 1em;
+}
+
+.banner__texto{
+    font-size: 18px;
+    font-weight: 900;
+    margin: 1em 0;
+}
+.banner__pesquisa{
+       background-color:transparent;
+       border: 1px solid white;
+       border:50%;
+       color:white     ;       }
